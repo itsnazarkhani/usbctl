@@ -1,2 +1,3 @@
-# FlashDriveCopyer
-A C# program that monitors USB drive connections on Windows, automatically copies the contents of detected USB drives to a specified folder, and handles file conflicts by prompting the user with options to replace, skip, or cancel.
+# usbctl
+
+A C# CLI tool for monitoring USB drive connections and automatically backing up the contents of detected USB drives. It copies files and directories to a specified destination, handles file conflicts, and provides options to replace, skip, or cancel operations.
